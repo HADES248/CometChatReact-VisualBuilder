@@ -74,7 +74,7 @@ Real-time chat is a foundational feature in many modern apps, from customer supp
 - Send a message—it should appear instantly.
 
 ### Troubleshooting
-- Verify `.env` credentials (`App ID`, `Auth Key`) are correct.
+- Verify credentials (`App ID`, `Auth Key`) are correct.
 - Ensure a user exists in the CometChat Dashboard.
 - Check `MessageListener` registration for real-time updates.
 
