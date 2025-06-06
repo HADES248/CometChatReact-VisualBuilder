@@ -3,7 +3,7 @@
 ## What You'll Be Building
 
 ![Chat UI Screenshot](https://www.cometchat.com/docs/assets/images/visual_chat_builder-3270b27870aa7586ed5b34d489b18e0b.png)  
-*Alt text: Screenshot of a working CometChat-powered React app with a user logged in and active chat visible*
+*Alt text: Screenshot of a working CometChat-Visual Builder for customizing CometChat with a user logged in and active chat visible*
 
 CometChat’s Visual Build into a fresh React TypeScript project to enables user login, one-on-one chat, and real-time message updates. By following each step, you’ll end up with a working chat interface powered entirely by CometChat.
 
